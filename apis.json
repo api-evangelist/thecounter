@@ -1,0 +1,61 @@
+{
+    "name": "TheCounter",
+    "description": "Get a clear overview and graph of your Twitter stats. Twitter Counter tracks statistics for over 180 million users.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/510-thecounter.jpg",
+    "tags": [
+        "have api",
+        "metrics",
+        "microblogging",
+        "netherlands",
+        "social",
+        "social analytics",
+        "twitter"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/thecounter\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TheCounter",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/510-thecounter.jpg",
+            "humanURL": "http:\/\/twittercounter.com\/pages\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/thecounter-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/thecounter-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/twittercounter.com\/blog?ref=footer"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/twittercounter"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/twittercounter"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TheCounter"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/twittercounter.com\/pages\/api"
+        }
+    ]
+}
